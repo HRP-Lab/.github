@@ -1,6 +1,6 @@
-# Trident Cloud Lab
+# HRP Lab
 
-Trident Cloud Lab is a public research and cloud-lab organization for Trident-G theory, methods, ethics, and platform experiments.
+HRP Lab is a public research and cloud-lab organisation for Trident-G theory, methods, ethics, and platform experiments.
 
 ## What this organization is for
 
@@ -17,4 +17,4 @@ The lab is used to separate public research material from private operational sy
 
 ## Principles
 
-Trident Cloud Lab work should be transparent where possible, explicit about boundaries, careful with evidence, and clear about which material is experimental, theoretical, operational, or ready for reuse.
+HRP Lab work should be transparent where possible, explicit about boundaries, careful with evidence, and clear about which material is experimental, theoretical, operational, or ready for reuse.
